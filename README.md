@@ -1,9 +1,5 @@
 # hsimpy
 
-> How Secure Is My Password?
-
-Run on Python 3.*. How you can use the howsecureismypassword.net password strength meter on your own sites.
-
 
 
 
@@ -18,8 +14,11 @@ Run on Python 3.*. How you can use the howsecureismypassword.net password streng
 
 
 
-## ABOUT
+## ABOUT hsimpy
 
+> How Secure Is My Password?
+
+Running on Python3.
 Rather than just saying a password is "weak" or "strong", *How Secure is My Password?* lets your users know how long it would take someone to crack their password.
 
 
