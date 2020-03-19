@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
 ``` python
 from hsimpy import Hsimpy
 
-PWD = Hsimp3('Passw0rd!')
+PWD = Hsimpy('Passw0rd!')
 
 print('possible_characters: ' + PWD.possible_characters)
 print('possible_combinations: ' + PWD.possible_combinations)
